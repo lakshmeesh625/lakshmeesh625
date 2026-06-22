@@ -18,7 +18,6 @@ Right now I'm focused on becoming the kind of engineer who can take an idea from
 ---
 
 ### 📌 What I'm working on
-- **[Your project name]** — [one line: what it does and why you built it]
 - Learning React by rebuilding tools I use daily
 
 ---
