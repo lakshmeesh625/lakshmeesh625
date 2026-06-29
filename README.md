@@ -1,26 +1,55 @@
- # Hey, I'm Lakshmeesh 👋
+<!-- GitHub Profile README — Lakshmeesh -->
 
-> Building my way to full-stack — one shipped project at a time.
+<h2>Hi, I'm Lakshmeesh</h2>
 
-I'm a developer in the early stages — comfortable with **HTML, CSS, and JavaScript**, and currently leveling up into **React, Next.js, and backend development**. I learn by building real things and deploying them, and also try to come up with original project ideas where i try to come up with solutions to certain problems i personally face and try to build a solution about that
+<p>
+Fullstack engineer with a backend focus. I'm early in my career and
+spending most of my time building real things, breaking them, and
+figuring out why — which turns out to be the fastest way to learn.
+</p>
 
-Right now I'm focused on becoming the kind of engineer who can take an idea from zero to a live product . Every repo here is a step toward that.
-
----
-
-### 🔨 Currently building with
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-learning-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-learning-000000?style=flat&logo=next.js)
+<p>
+Right now I'm going deep on <strong>Node.js, PostgreSQL, and TypeScript</strong>,
+while keeping my fullstack skills sharp with Next.js and Python.
+</p>
 
 ---
 
-### 📌 What I'm working on
-- Learning React by rebuilding tools I use daily
+### Stack
+
+```
+backend   →  Node.js · Python · PostgreSQL · REST APIs · SQL
+frontend  →  Next.js · React · TypeScript · JavaScript
+tooling   →  Supabase · Vercel · Git
+learning  →  System design · Redis · Auth from scratch
+```
 
 ---
 
-### 📬 Find me
-[Twitter](#) · [LinkedIn](#) · [Portfolio](#)
+### What I'm up to
+
+- Building projects that solve real problems, not just tutorial clones
+- Learning backend deeply — the parts that matter when things go wrong
+- Open to junior / early-career roles where I can contribute and grow fast
+
+---
+
+### A few honest things
+
+- I don't have years of experience — I have months of genuine effort
+- I learn best by shipping, so that's what I'm doing
+- I care more about writing clear code than clever code
+
+---
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+</p>
+
+---
+
+<p>
+<a href="mailto:your@email.com">Email</a> ·
+<a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
+<a href="https://twitter.com/YOUR_HANDLE">Twitter</a>
+</p>
