@@ -43,13 +43,13 @@ learning  →  System design · Redis · Auth from scratch
 ---
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshmeesh625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
 </p>
 
 ---
 
 <p>
-<a href="mailto:your@email.com">Email</a> ·
-<a href="https://linkedin.com/in/YOUR_HANDLE">LinkedIn</a> ·
+<a href="mailto:your@email.com">lakshmeesh121@gmail.com</a> ·
+<a href="https://linkedin.com/in/YOUR_HANDLE">LalshmeeshPatelK</a> ·
 <a href="https://twitter.com/YOUR_HANDLE">Twitter</a>
 </p>
