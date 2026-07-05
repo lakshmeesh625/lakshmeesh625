@@ -47,13 +47,7 @@ learning  →  System design · Redis · Auth from scratch
 <p>You can reach me out here</p>
 ---
 <p align="center">
-  <a href="lakshmeesh121@gmail.com">
-    <img src="https://img.shields.io/badge/lakshmeesh121@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lakshmeesh-patel-k/" target="_blank">
-    <img src="https://img.shields.io/badge/your--linkedin--lakshmeesh0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/k_lakshmee27483" target="_blank">
-    <img src="https://img.shields.io/badge/@ylakshmeesh-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="Email"/> your.email@example.com &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/> your-linkedin-username &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/twitter.png" alt="Twitter"/> your-twitter-username
 </p>
