@@ -44,8 +44,7 @@ learning  →  System design · Redis · Auth from scratch
 
 
 ---
-
-
+<p>You can reach me out here</p>
 ---
 <p align="center">
   <a href="mailto:your.email@example.com">
