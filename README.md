@@ -56,6 +56,6 @@ learning  →  System design · Redis · Auth from scratch
   </a>
   &nbsp;
   <a href="https://x.com/your-x-username" target="_blank">
-    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=twitter&logoColor=white" alt="X"/>
   </a>
 </p>
