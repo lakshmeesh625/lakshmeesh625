@@ -47,7 +47,7 @@ learning  →  System design · Redis · Auth from scratch
 <p>You can reach me out here</p>
 ---
 <p align="center">
-  <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="Email"/> your.email@example.com &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/> your-linkedin-username &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/twitter.png" alt="Twitter"/> your-twitter-username
+  <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="Email"/> lakshmeesh121@gmail.com &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/> lakshmeesh-patel-k&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/twitter.png" alt="Twitter"/> lakshmeesh
 </p>
