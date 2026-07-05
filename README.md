@@ -19,8 +19,11 @@ while keeping my fullstack skills sharp with Next.js .
 
 ```
 backend   →  Python · PostgreSQL · REST APIs · SQL
+
 frontend  →  Next.js · React · TypeScript · JavaScript
+
 tooling   →  Supabase · Vercel · Git
+
 learning  →  System design · Redis · Auth from scratch
 ```
 
@@ -42,14 +45,16 @@ learning  →  System design · Redis · Auth from scratch
 
 ---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/lakshmeesh625&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-</p>
 
 ---
-
-<p>
-<a href="mailto:your@email.com">lakshmeesh121@gmail.com</a> ·
-<a href="https://linkedin.com/in/YOUR_HANDLE">https://www.linkedin.com/in/lakshmeesh-patel-k/</a> ·
-<a href="https://twitter.com/YOUR_HANDLE">https://x.com/k_lakshmee27483</a>
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
