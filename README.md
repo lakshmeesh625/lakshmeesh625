@@ -48,12 +48,12 @@ learning  →  System design · Redis · Auth from scratch
 ---
 <p align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.icons8.com/color/24/000000/gmail-new.png" alt="Email"/> your.email@example.com
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="20" style="vertical-align: middle;" alt="Email"/> your.email@example.com
   </a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn"/> your-linkedin-username
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="20" style="vertical-align: middle;" alt="LinkedIn"/> your-linkedin-username
   </a> &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-username" target="_blank">
-    <img src="https://img.icons8.com/color/24/000000/twitter.png" alt="Twitter"/> your-twitter-username
+  <a href="https://x.com/your-x-username" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="20" style="vertical-align: middle;" alt="X"/> your-x-username
   </a>
 </p>
