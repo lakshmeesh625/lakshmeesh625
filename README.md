@@ -1,23 +1,10 @@
-# Hey, I'm [Name] 👋
+# Hey, I'm Lakshmeesh
 > Full-stack engineer. I build products, ship them, and make them better.
 
-I'm a developer focused on **Next.js, TypeScript, and Supabase** — the stack most early-stage startups actually use. I learn by building real things and putting them in front of real people. Every repo below is deployed and live.
+I'm a developer focused on **Next.js, TypeScript, and Supabase** — the stack most early-stage startups actually use.
 
----
-
-## 🚀 What I've shipped
-
-| Project | What it does | Stack | Link |
-|---|---|---|---|
-| **SpendSense** | AI finance tool — paste bank statement, get spending breakdown | Next.js · Claude API · Stripe | [↗ Live](#) |
-| **OpenScore** | Public fitness leaderboard with AI summaries. 40 users. | Next.js · Supabase · Tailwind | [↗ Live](#) |
-| **CutURL** | URL shortener with click analytics + auth | Next.js · PostgreSQL | [↗ Live](#) |
-| **WeatherJS** | Vanilla JS weather app — no frameworks | JS · OpenWeatherMap | [↗ Live](#) |
-
----
 
 ## ⚡ Right now
-- Building **[project]** — [one line]. Currently at [X] users.
 - Learning: TypeScript strictly · SQL deeply · CI/CD with GitHub Actions
 
 ---
@@ -32,5 +19,4 @@ I'm a developer focused on **Next.js, TypeScript, and Supabase** — the stack m
 
 ---
 
-## 📬 Find me
-[Twitter / X](#) · [LinkedIn](#) · [yourportfolio.com](#)
+
