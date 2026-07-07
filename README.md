@@ -1,39 +1,74 @@
+<div align="center">
+
 # Hi, I'm Lakshmeesh Patel 👋
 
-Full-Stack Engineer shipping production-ready web applications.
+### Building and shipping production-ready web applications.
 
-## 🛠 Tech Stack
+</div>
 
-**Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS
+---
 
-**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+<h2>🛠 Tech Stack</h2>
 
-**Database:** PostgreSQL, Supabase, SQL
+<p>
+<b>Frontend:</b> Next.js • React • TypeScript • JavaScript • Tailwind CSS
+</p>
 
-**Tools:** Git, GitHub, Docker, Vercel
+<p>
+<b>Backend:</b> Node.js • Express.js • REST APIs • JWT Authentication
+</p>
 
-## 🚀 Currently Building
+<p>
+<b>Database:</b> PostgreSQL • Supabase • SQL
+</p>
 
-### RareEase
+<p>
+<b>Tools:</b> Git • GitHub • Docker • Vercel • Postman
+</p>
 
-A production-ready fashion e-commerce platform.
+---
 
-**Features:** Authentication • Product Catalog • Cart • Wishlist • Checkout • Orders • Admin Dashboard
+<h2>🚀 Currently Building</h2>
 
-**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+<h3>RareEase</h3>
 
-## 🌱 Currently diving deep on
+<p>
+Production-ready fashion e-commerce platform.
+</p>
 
-Next.js • Typescript •System Design •Computer Networking
+<p>
+<b>Features:</b> Authentication • Product Catalog • Cart • Wishlist • Checkout • Orders • Admin Dashboard
+</p>
 
-## 🎯 looking forward in 2026 to 
+<p>
+<b>Tech:</b> Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+</p>
 
-* Build production-grade SaaS products
-* Master backend engineering
-* Land a Full-Stack Software Engineer role
+---
 
-## 📫 Connect
+<h2>🌱 Currently Learning</h2>
 
-* 🌐 Portfolio: *Coming Soon*
-* 💼 LinkedIn: *Coming Soon*
-* 📧 Email: *[your.email@example.com](mailto:your.email@example.com)*
+<p>
+Docker • Kubernetes • Go • System Design • Distributed Systems
+</p>
+
+---
+
+<h2>🎯 2026 Goals</h2>
+
+<ul>
+  <li>Build production-grade SaaS products</li>
+  <li>Contribute to open source</li>
+  <li>Master backend engineering</li>
+  <li>Land a Full-Stack Software Engineer role</li>
+</ul>
+
+---
+
+<h2>📫 Connect</h2>
+
+<ul>
+  <li>🌐 Portfolio: Coming Soon</li>
+  <li>💼 LinkedIn: Coming Soon</li>
+  <li>📧 Email: your.email@example.com</li>
+</ul>
