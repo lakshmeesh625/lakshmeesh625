@@ -1,40 +1,52 @@
 ```markdown
-# Hi, I'm Lakshmeesh Patel 👋
+# Hi, I'm Lakshmeesh Patel
 
-> Building and shipping production-ready web applications.
+Building and shipping production-ready web applications.
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Frontend**  
-Next.js • React • TypeScript • JavaScript • Tailwind CSS
+**Frontend**
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
 
-**Backend**  
-Node.js • Express.js • REST APIs • JWT Authentication
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
 
-**Database**  
-PostgreSQL • Supabase
+**Database**
+- PostgreSQL
+- Supabase
 
-**Tools**  
-Git • Docker • Vercel • Postman
+**Tools**
+- Git
+- Docker
+- Vercel
+- Postman
 
-## 🚀 Current Project
+## Current Project
 
-### RareEase
+**RareEase** — Production-ready fashion e-commerce platform built with Next.js, TypeScript, Tailwind CSS, Supabase, and PostgreSQL.
 
-Production-ready fashion e-commerce platform built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Supabase**, and **PostgreSQL**.
+## Currently Learning
 
-## 🌱 Currently Learning
+- Docker
+- Kubernetes
+- Go
+- System Design
 
-Docker • Kubernetes • Go • System Design
-
-## 🎯 Goals
+## Goals
 
 - Ship production-grade software
 - Contribute to open source
 - Grow as a backend engineer
 - Land a Full-Stack Engineer role
 
-## 📫 Connect
+## Contact
 
 - Portfolio: Coming Soon
 - LinkedIn: Coming Soon
