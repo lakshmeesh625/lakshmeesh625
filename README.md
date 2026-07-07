@@ -1,74 +1,42 @@
-<div align="center">
-
+```markdown
 # Hi, I'm Lakshmeesh Patel 👋
 
-### Building and shipping production-ready web applications.
+> Building and shipping production-ready web applications.
 
-</div>
+## 🛠 Tech Stack
 
----
+**Frontend**  
+Next.js • React • TypeScript • JavaScript • Tailwind CSS
 
-<h2>🛠 Tech Stack</h2>
+**Backend**  
+Node.js • Express.js • REST APIs • JWT Authentication
 
-<p>
-<b>Frontend:</b> Next.js • React • TypeScript • JavaScript • Tailwind CSS
-</p>
+**Database**  
+PostgreSQL • Supabase
 
-<p>
-<b>Backend:</b> Node.js • Express.js • REST APIs • JWT Authentication
-</p>
+**Tools**  
+Git • Docker • Vercel • Postman
 
-<p>
-<b>Database:</b> PostgreSQL • Supabase • SQL
-</p>
+## 🚀 Current Project
 
-<p>
-<b>Tools:</b> Git • GitHub • Docker • Vercel • Postman
-</p>
+### RareEase
 
----
+Production-ready fashion e-commerce platform built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Supabase**, and **PostgreSQL**.
 
-<h2>🚀 Currently Building</h2>
+## 🌱 Currently Learning
 
-<h3>RareEase</h3>
+Docker • Kubernetes • Go • System Design
 
-<p>
-Production-ready fashion e-commerce platform.
-</p>
+## 🎯 Goals
 
-<p>
-<b>Features:</b> Authentication • Product Catalog • Cart • Wishlist • Checkout • Orders • Admin Dashboard
-</p>
+- Ship production-grade software
+- Contribute to open source
+- Grow as a backend engineer
+- Land a Full-Stack Engineer role
 
-<p>
-<b>Tech:</b> Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
-</p>
+## 📫 Connect
 
----
-
-<h2>🌱 Currently Learning</h2>
-
-<p>
-Docker • Kubernetes • Go • System Design • Distributed Systems
-</p>
-
----
-
-<h2>🎯 2026 Goals</h2>
-
-<ul>
-  <li>Build production-grade SaaS products</li>
-  <li>Contribute to open source</li>
-  <li>Master backend engineering</li>
-  <li>Land a Full-Stack Software Engineer role</li>
-</ul>
-
----
-
-<h2>📫 Connect</h2>
-
-<ul>
-  <li>🌐 Portfolio: Coming Soon</li>
-  <li>💼 LinkedIn: Coming Soon</li>
-  <li>📧 Email: your.email@example.com</li>
-</ul>
+- Portfolio: Coming Soon
+- LinkedIn: Coming Soon
+- Email: your.email@example.com
+```
