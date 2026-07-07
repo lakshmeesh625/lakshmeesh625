@@ -1,38 +1,39 @@
-<div align="center">
+# Hi, I'm Lakshmeesh Patel 👋
 
-# [Your Name] — Full Stack Engineer
+Full-Stack Engineer shipping production-ready web applications.
 
-Building web applications from the database up through the frontend.
+## 🛠 Tech Stack
 
-[Portfolio](https://your-site.com) · [LinkedIn](https://linkedin.com/in/you) · [Email](mailto:you@example.com)
+**Frontend:** Next.js, React, TypeScript, JavaScript, Tailwind CSS
 
-</div>
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 
----
+**Database:** PostgreSQL, Supabase, SQL
 
-I enjoy building complete web apps — APIs, databases, and React interfaces — and I'm always picking up new tools by shipping real projects.
+**Tools:** Git, GitHub, Docker, Vercel
 
-**Stack:** `TypeScript` `React` `Next.js` `Node.js` `Python` `PostgreSQL` `MongoDB` `Docker`
+## 🚀 Currently Building
 
----
+### RareEase
 
-### Projects
+A production-ready fashion e-commerce platform.
 
-- **[Project Name](https://github.com/you/repo)** — one-line description of what it does. `React` `Node.js` `PostgreSQL`
-- **[Project Name](https://github.com/you/repo)** — one-line description of what it does. `Next.js` `GraphQL`
-- **[Project Name](https://github.com/you/repo)** — one-line description of what it does. `Python` `Redis`
+**Features:** Authentication • Product Catalog • Cart • Wishlist • Checkout • Orders • Admin Dashboard
 
----
+**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default&hide_border=true" width="36%" />
-</div>
+## 🌱 Currently diving deep on
 
----
+Next.js • Typescript •System Design •Computer Networking
 
-<div align="center">
+## 🎯 looking forward in 2026 to 
 
-**Get in touch:** [you@example.com](mailto:you@example.com) · [linkedin.com/in/you](https://linkedin.com/in/you)
+* Build production-grade SaaS products
+* Master backend engineering
+* Land a Full-Stack Software Engineer role
 
-</div>
+## 📫 Connect
+
+* 🌐 Portfolio: *Coming Soon*
+* 💼 LinkedIn: *Coming Soon*
+* 📧 Email: *[your.email@example.com](mailto:your.email@example.com)*
