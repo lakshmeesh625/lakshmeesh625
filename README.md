@@ -17,7 +17,3 @@ Currently building out a portfolio of deployed projects — a SaaS tool and an A
 
 
 
-## Connect
-
-- Twitter/X: [@YOUR_HANDLE](https://twitter.com/YOUR_HANDLE)
-- LinkedIn: [YOUR_NAME](https://linkedin.com/in/YOUR_HANDLE)
