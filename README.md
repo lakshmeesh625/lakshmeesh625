@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Lakshmeesh  👋
 
 ### Full-Stack Engineer
 
@@ -32,11 +32,11 @@ I build **scalable, user-focused web applications** and enjoy working across the
 
 ### 📌 Featured Projects
 
-**[Project Name]**
-Short description of what you built and why.
+**[Digital Hippo]**
+
 
 **[Project Name]**
-Short description highlighting an interesting technical challenge.
+
 
 ### 🌱 Currently Learning
 
