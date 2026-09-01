@@ -32,7 +32,7 @@ I build **scalable, user-focused web applications** and enjoy working across the
 
 ### 📌 Featured Projects
 
-**[Digital Hippo]**
+**Digital Hippo**
 
 
 **[Project Name]**
