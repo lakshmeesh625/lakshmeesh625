@@ -35,12 +35,12 @@ I build **scalable, user-focused web applications** and enjoy working across the
 **Digital Hippo**
 
 
-**[Project Name]**
+****
 
 
 ### 🌱 Currently Learning
 
-**System Design · Cloud Architecture · Distributed Systems**
+**System Design · Backend  · Frontend**
 
 ### 🤝 Connect
 
