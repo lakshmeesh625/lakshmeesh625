@@ -30,9 +30,7 @@ I build **scalable, user-focused web applications** and enjoy working across the
 * Authentication & authorization
 * Cloud deployments & CI/CD
 
-### 📌 Featured Projects
 
-**Digital Hippo**
 
 
 ****
