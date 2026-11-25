@@ -1,108 +1,55 @@
 <!--
-SETUP: Create a PUBLIC repo named exactly the same as your GitHub username
-(e.g. github.com/yourname/yourname), add this file as README.md, and it will
-appear at the top of your profile. Replace every [bracket] and USERNAME.
-Delete any section you can't back with something real.
+Repo name must match your GitHub username exactly. Save this as README.md there.
+Fill every [bracket]. If you can't fill a row with something real, delete the row.
 -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<br/>
 
-<p align="center">
-  <b>Full stack engineer who ships production-grade backends and clean Next.js frontends, solo and fast.</b><br/>
-  Based in Bengaluru, India · Working with US time zones · Open to early-stage startup roles
-</p>
+# [Your Name]
 
-<p align="center">
-  <a href="https://yourname.dev">Portfolio</a> ·
-  <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> ·
-  <a href="https://x.com/USERNAME">X</a> ·
-  <a href="mailto:you@example.com">Email</a>
-</p>
+### I build products end to end, from database to deploy, and I own what happens after launch.
+
+I think like a founder: I'd rather be handed a problem than a ticket.
+Full stack engineer, Bengaluru → working in US hours.
+
+<br/>
 
 ---
 
-## 🔭 What I'm doing now
+## Shipped
 
-- 🚧 Building **[Product 1]**: [one-line description] → [live link]
-- 📈 [N] users so far, working on [current focus, e.g. onboarding, performance]
-- 🧠 Practicing DSA and system design: [N]/150 NeetCode problems done
-- 🤝 Contributing to open source: [project names]
-
----
-
-## ⭐ Featured projects
-
-### [Product 1 name] · [live link]
-[One-line pitch.] Auth with refresh-token rotation, Redis caching, custom sliding-window rate limiting, and session limits.
-**Stack:** Next.js · TypeScript · Tailwind · Express · PostgreSQL · Redis · Docker
-**Result:** [e.g. p95 latency 180ms → 12ms after caching] · [N] users
-→ [Repo](https://github.com/USERNAME/REPO) · [Demo video](https://youtu.be/xxxx)
-
-### [Product 2 name] · [live link]
-[One-line pitch.] [Key technical feature, e.g. real-time updates via WebSockets.]
-**Stack:** React · Node.js · MongoDB · [other]
-→ [Repo](https://github.com/USERNAME/REPO)
-
-### [Product 3 name] · [live link]
-[One-line pitch.] [Key technical feature, e.g. AI-powered feature with per-user token limits.]
-**Stack:** FastAPI · Python · Next.js · [other]
-→ [Repo](https://github.com/USERNAME/REPO)
-
----
-
-## 🛠️ What I build with
-
-**Core:**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-**Data and infra:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Backend features I've implemented from scratch:** access/refresh token auth · session limits and remote logout · Redis cache-aside with invalidation · sliding-window and token-bucket rate limiting · per-user usage quotas · load testing (k6)
-
----
-
-## 🤝 Open source contributions
-
-| Project | Contribution | PR |
+| | What it does | Proof |
 |---|---|---|
-| [project] | [e.g. fixed pagination bug] | [#123](https://github.com/org/repo/pull/123) |
-| [project] | [e.g. improved docs for setup] | [#456](https://github.com/org/repo/pull/456) |
+| **[Product 1](https://live-link)** | [One sentence on the problem it solves] | [N] users · p95 [X]ms · [repo](https://github.com/USERNAME/REPO) |
+| **[Product 2](https://live-link)** | [One sentence] | [Metric or outcome] · [repo](https://github.com/USERNAME/REPO) |
+| **[Merged PR](https://github.com/org/repo/pull/123)** | [What you fixed in a real project] | Merged into [project] |
 
 ---
 
-## ✍️ Writing
+## How I work
 
-- [Post title: e.g. "How I built a Redis rate limiter and what broke"](https://link)
-- [Post title: e.g. "Sessions vs JWT: what I chose and why"](https://link)
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true" />
-</p>
+**I ship small and live.** Deployed from day one, small PRs, no big-bang releases.
+**I talk to users, then cut.** The best feature I've built is usually one I removed.
+**I write down what broke.** Postmortems for my own bugs: [link to your best write-up](https://link).
 
 ---
 
-## 💬 Work with me
+## Under the hood
 
-I'm looking for a **full stack role at an early-stage startup** (remote, US time-zone overlap), or scoped **contract projects**. I can own a feature from database to deploy and I send clear written updates.
+`TypeScript` `Next.js` `Node` `PostgreSQL` `Redis` `Docker` `Python`
 
-- 📫 **Email:** you@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/USERNAME](https://linkedin.com/in/USERNAME)
-- 📅 **Book a call:** [Cal.com/USERNAME](https://cal.com/USERNAME)
+Things I've built from scratch, not from a library: token auth with rotation, a Redis rate limiter, per-user quotas, cache invalidation, load tests with real numbers.
 
-<p align="center"><sub>Currently shipping: [Product 1] · Last updated [Month Year]</sub></p>
+---
+
+## Right now
+
+**Building:** [Product 3, one line]
+**Looking for:** one early-stage team where I'd own a product area end to end. Remote, US time-zone overlap.
+**Not looking for:** a seat where I'm handed tickets.
+
+Happy to start with a small paid project so you can see how I work before committing.
+
+📫 **[you@example.com](mailto:you@example.com)** · [LinkedIn](https://linkedin.com/in/USERNAME) · [X](https://x.com/USERNAME)
+
+<br/>
