@@ -1,113 +1,76 @@
 <!--
-Repo name must match your GitHub username exactly. Save this file as README.md there.
-Replace: [Your Name], you@example.com, USERNAME.
-The projects section is at the bottom inside a comment. When you have projects, move it above "How I work" and remove the comment markers around it.
+SETUP
+1. Create a public repo named exactly like your GitHub username.
+2. Save this file as README.md in it, and put banner.svg inside a folder called assets (assets/banner.svg).
+3. Open assets/banner.svg and change "Your Name" to your name.
+4. Replace you@example.com and USERNAME below.
+5. Projects section is at the bottom inside a comment. When you have projects, move it above "How I work" and remove the comment markers around it.
 -->
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Full stack engineer" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#how-i-work">How I work</a> &nbsp;·&nbsp;
+  <a href="#what-i-focus-on">Focus</a> &nbsp;·&nbsp;
+  <a href="#open-to-opportunities">Open to work</a> &nbsp;·&nbsp;
+  <a href="mailto:you@example.com">Contact</a>
+</p>
+
+<p align="center">
+  I build products end to end and take ownership of what happens after launch.<br/>
+  Based in Bengaluru, India. Available to work with teams in US time zones.
+</p>
+
 <br/>
-
-# Lakshmeesh
-
-### Full stack engineer. I build products end to end, from database to deploy, and take ownership of what happens after launch.
-
-I care about outcomes, not just tasks: give me the problem and I'll see it through to production.
-Based in Bengaluru, India. Available to work with teams in US time zones.
-
-<br/>
-
----
 
 ## How I work
 
-**I ship small and live.** Deployed early, small PRs, no big-bang releases.
-**I talk to users, then cut.** The best feature is often the one you remove.
-**I write down my decisions.** Every project documents its tradeoffs, so others can follow my thinking.
+| 🚢 **Ship small, ship live** | 🎯 **Outcomes over tasks** | 📝 **Decisions on paper** |
+|:--|:--|:--|
+| Deployed early, small PRs, no big-bang releases. | Give me the problem and I'll see it through to production. | Every project documents its tradeoffs so others can follow my thinking. |
 
----
+<br/>
 
 ## What I focus on
 
-`TypeScript` `Next.js` `React` `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Python`
+| Layer | Tools |
+|:--|:--|
+| **Frontend** | TypeScript · React · Next.js · Tailwind CSS |
+| **Backend** | Node.js · Express · Python |
+| **Data** | PostgreSQL · Redis · MongoDB |
+| **Infra** | Docker · GitHub Actions |
 
-On the backend I go beyond CRUD: token-based auth, session limits, rate limiting, caching, and per-user usage quotas.
+> **Beyond CRUD.** On the backend I build token-based auth, session limits, rate limiting, caching, and per-user usage quotas, the parts that decide whether a product holds up under real users.
 
----
+<br/>
 
 ## Open to opportunities
 
-I'm looking for a **full stack role at an early-stage startup**, remote, where I can own features from idea to production. I'm also open to **contract projects**, and happy to start with a small paid trial so you can see how I work before committing.
+I'm looking for a **full stack role at an early-stage startup**, remote, where I can own features from idea to production.
 
-**Currently:** building full stack products and sharpening data structures and system design.
-
-📫 **[you@example.com](mailto:you@example.com)** · [LinkedIn](https://linkedin.com/in/USERNAME) · [X](https://x.com/USERNAME)
+I'm also open to **contract projects**, and happy to start with a small paid trial so you can see how I work before committing.
 
 <br/>
 
+<p align="center">
+  <a href="mailto:you@example.com"><b>you@example.com</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/USERNAME">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://x.com/USERNAME">X</a>
+</p>
+
+<p align="center"><sub>Currently: building full stack products and sharpening data structures and system design.</sub></p>
+
 <!--
-PROJECTS: uncomment this block and paste it above "How I work" once you have something live.
+PROJECTS: move this block above "How I work" once you have something live, and remove the comment markers.
 
 ## Shipped
 
-| | What it does | Proof |
-|---|---|---|
+| Project | What it does | Proof |
+|:--|:--|:--|
 | **[Project name](https://live-link)** | One sentence on the problem it solves | N users · [repo](https://github.com/USERNAME/REPO) |
 | **[Project name](https://live-link)** | One sentence | Metric or outcome · [repo](https://github.com/USERNAME/REPO) |
 
----
---><!--
-Repo name must match your GitHub username exactly. Save this file as README.md there.
-Replace: [Your Name], you@example.com, USERNAME.
-The projects section is at the bottom inside a comment. When you have projects, move it above "How I work" and remove the comment markers around it.
--->
-
 <br/>
-
-# [Your Name]
-
-### Full stack engineer. I build products end to end, from database to deploy, and take ownership of what happens after launch.
-
-I care about outcomes, not just tasks: give me the problem and I'll see it through to production.
-Based in Bengaluru, India. Available to work with teams in US time zones.
-
-<br/>
-
----
-
-## How I work
-
-**I ship small and live.** Deployed early, small PRs, no big-bang releases.
-**I talk to users, then cut.** The best feature is often the one you remove.
-**I write down my decisions.** Every project documents its tradeoffs, so others can follow my thinking.
-
----
-
-## What I focus on
-
-`TypeScript` `Next.js` `React` `Node.js` `Express` `PostgreSQL` `Redis` `Docker` `Python`
-
-On the backend I go beyond CRUD: token-based auth, session limits, rate limiting, caching, and per-user usage quotas.
-
----
-
-## Open to opportunities
-
-I'm looking for a **full stack role at an early-stage startup**, remote, where I can own features from idea to production. I'm also open to **contract projects**, and happy to start with a small paid trial so you can see how I work before committing.
-
-**Currently:** building full stack products and sharpening data structures and system design.
-
-📫 **[you@example.com](mailto:you@example.com)** · [LinkedIn](https://linkedin.com/in/USERNAME) · [X](https://x.com/USERNAME)
-
-<br/>
-
-<!--
-PROJECTS: uncomment this block and paste it above "How I work" once you have something live.
-
-## Shipped
-
-| | What it does | Proof |
-|---|---|---|
-| **[Project name](https://live-link)** | One sentence on the problem it solves | N users · [repo](https://github.com/USERNAME/REPO) |
-| **[Project name](https://live-link)** | One sentence | Metric or outcome · [repo](https://github.com/USERNAME/REPO) |
-
----
 -->
