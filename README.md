@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name] 👋
+### Hi, I'm Lakshmeesh Patel K
 
 Full stack engineer building web apps end to end — APIs, databases, and frontend systems. I like turning ideas into working products.
 
